@@ -16,4 +16,4 @@ elif lastdigit > 5:
         print("{:d} and is greater than 5".format(lastdigit))
 
 else:
-    print("{:d} and is less than 6 and not 0".format(lastdigit))
+    print("{:d} and is less than 6 and not 0".format(lastdigit), end='\n')
